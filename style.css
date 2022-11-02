@@ -41,7 +41,7 @@ section {
 
 input, textarea {
     width: 100%;
-    background-color: #242424;
+    background-color:#242424;
     color: #fff;
     outline: none;
     border: 3px solid #c0c4cc;
@@ -158,8 +158,9 @@ nav,
 {
     color: white;
 }
+
 .dark-theme section {
-    background-color: #242424;
+    background-color: #101010;
 }
 
 .dark-theme #personal-logo {
